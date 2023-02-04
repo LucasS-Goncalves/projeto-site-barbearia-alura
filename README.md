@@ -2,7 +2,10 @@
 
 <h1>Alura Barber shop project built with HTML and CSS | Projeto da Barbearia Alura feito com HTML e CSS </h1>
 
-<p>I recreated Barbearia Alura's website in order to practice the knowledge acquired in classes, changing styles, positions, colors, contents, font sizes, inputs, displays, adding shadowns, transitions and some properties, etc, and this is the result: | Recriei o site da Barbearia Alura com o intuito de praticar os conhecimentos adquiridos nas aulas, alterando estilos, posições, cores, conteúdos, inputs, displays, adicionando sombras, transições e algumas propriedades, etc, e este é o resultado: </p>
+<p>I recreated Barbearia Alura's website in order to practice the knowledge acquired in classes, changing styles, positions, colors, contents, font sizes, inputs, displays, adding shadowns, transitions, properties, making the website responsive, etc.| Recriei o site da Barbearia Alura com o intuito de praticar os conhecimentos adquiridos nas aulas, alterando estilos, posições, cores, conteúdos, inputs, displays, adicionando sombras, transições, propriedades, deixando o site responsivo, etc </p>
+
+*If you find any errors or want to give me some advice, please let me know, this is really important to my improvement | Se você encontrar algum erro ou quiser me dar algum conselho, por favor me avise, isso é muito importante para minha evolução.*
+
 <br>
 <p> I've also posted this project and a video of it on my LinkedIn: | Eu também postei esse projeto e um video dele no LinkedIn: https://www.linkedin.com/in/lucas-gon%C3%A7alves-3a2662252/
 
@@ -48,6 +51,23 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/122225674/216783566-d00394ea-394f-4495-bbe8-b252bed3b48d.jpg" width="600px">
 </div>
+
+<h2>Making the website responsive</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122225674/216785207-f469a31e-742f-411b-85f3-272b9684d148.png" width="600px">
+</div>
+<br>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122225674/216785289-aa5d6024-bd52-4789-9e70-fccb60da923f.png" width="600px">
+</div>
+<br>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122225674/216785329-61bb3c05-aaa7-41f3-9fcc-7bcb7e446c7e.png" width="600px">
+</div>
+
 
 
 
