@@ -23,7 +23,7 @@ header {
 
 .logo:hover {
     transform: scale(1.04);
-    transition: all 0.2s;
+    transition: all 0.15s;
 }
 
 nav {
