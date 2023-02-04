@@ -4,7 +4,7 @@
 
 <p>I recreated Barbearia Alura's website in order to practice the knowledge acquired in classes, changing styles, positions, colors, contents, font sizes, inputs, displays, adding shadowns, transitions, properties, making the website responsive, etc.| Recriei o site da Barbearia Alura com o intuito de praticar os conhecimentos adquiridos nas aulas, alterando estilos, posições, cores, conteúdos, inputs, displays, adicionando sombras, transições, propriedades, deixando o site responsivo, etc. </p>
 
-*If you find any errors or want to give me some advice, please let me know, this is really important to my improvement | Se você encontrar algum erro ou quiser me dar algum conselho, por favor me avise, isso é muito importante para minha evolução.*
+*If you find any errors or want to give me some advice, please let me know, this is really important to my improvement, thank you! | Se você encontrar algum erro ou quiser me dar algum conselho, por favor me avise, isso é muito importante para minha evolução, obrigado!.*
 
 <br>
 <p> I've also posted this project and a video of it on my LinkedIn: | Eu também postei esse projeto e um video dele no LinkedIn: https://www.linkedin.com/in/lucas-gon%C3%A7alves-3a2662252/
