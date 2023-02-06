@@ -7,7 +7,7 @@
 *If you find any errors or want to give me some advice, please let me know, this is really important to my improvement, thank you! | Se você encontrar algum erro ou quiser me dar algum conselho, por favor me avise, isso é muito importante para minha evolução, obrigado!.*
 
 <br>
-<p> I've also posted this project and a video of it on my LinkedIn: | Eu também postei esse projeto e um video dele no LinkedIn: https://www.linkedin.com/in/lucas-gon%C3%A7alves-3a2662252/
+<p> I've also posted this project on my LinkedIn: | Eu também postei esse projeto no LinkedIn: https://www.linkedin.com/in/lucas-gon%C3%A7alves-3a2662252/
 
 <h2>Home page | Página inicial </h2>
 
